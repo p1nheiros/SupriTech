@@ -1,6 +1,6 @@
 import React from 'react';
 import "./sobre.css";
-import CV_Lucas_Pinheiro from '../../assets/CV_Lucas_Pinheiro.pdf';
+import Pitch_SupriTech from '../../assets/Pitch_SupriTech.pptx.pdf';
 
 const Sobre = () => {
   return (
@@ -14,7 +14,7 @@ const Sobre = () => {
             <p className="about__description">
             Somos agentes de mudança, alavancando a tecnologia para solucionar problemas complexos na gestão de saúde e melhorar a qualidade dos processos internos, revolucionando a forma como os serviços são prestados e recebidos.
              </p>
-            <a href={CV_Lucas_Pinheiro} className="btn" download>Download Pitch</a>
+            <a href={Pitch_SupriTech} className="btn" download>Download Pitch</a>
           </div>
 
           <div className="about__skills grid">

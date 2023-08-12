@@ -18,7 +18,7 @@ const Data = [
     id: 3,
     category: "education",
     icon: "uil uil-constructor",
-    title: "Acessoria Técnica",
+    title: "Assessoria Técnica",
     desc: "Suporte especializado aos usuários da ferramenta durante o processo de adaptação.",
   },
   {
@@ -39,7 +39,7 @@ const Data = [
     id: 13,
     category: "experience",
     icon: "uil uil-constructor",
-    title: "Acessoria Técnica",
+    title: "Assessoria Técnica",
     desc: "Suporte especializado aos usuários da ferramenta durante o processo de adaptação.",
   },
 ];
