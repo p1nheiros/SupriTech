@@ -11,7 +11,7 @@ const Contato = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    emailjs.init("VC-lU7b6EfQ7X6SjO");
+    emailjs.init("lbDfNnWNAdisd9BU4");
 
     const templateParams = {
       from_name: nome,
@@ -20,7 +20,7 @@ const Contato = () => {
       message: mensagem,
     };
 
-    emailjs.send("service_ne26bdr", "template_0uy5f6n", templateParams)
+    emailjs.send("service_0kniszv", "template_0uy5f6n", templateParams)
       .then(function (response) {
         alert("E-mail enviado com sucesso!");
 
