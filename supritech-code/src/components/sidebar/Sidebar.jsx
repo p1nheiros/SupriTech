@@ -49,7 +49,7 @@ const Sidebar = () => {
         </nav>
 
         <div className="nav__footer">
-          <span className="copyright">2023 &copy; SupriTech</span>
+          <span className="copyright">2024 &copy; SupriTech</span>
         </div>
       </aside>
 
